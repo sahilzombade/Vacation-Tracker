@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "employeeName": "ABC",
+    "employeeLocation": "Pune",
+    "employeeLevel": "Project Manager",
+    "projectDetails": {
+      "projectId": 1,
+      "projectName": "CCB"
+    },
+    "approvedLeaves": [
+      "15-05-2024",
+      "16-05-2024"
+    ],
+    "plannedLeaves": [
+      "14-05-2024"
+    ],
+    "pendingLeaves": []
+  },
+  {
+    "id": 2,
+    "employeeName": "PQR",
+    "employeeLocation": "Pune",
+    "employeeLevel": "Senior Developer",
+    "projectDetails": {
+      "projectId": 1,
+      "projectName": "CCB"
+    },
+    "approvedLeaves": [],
+    "plannedLeaves": [
+      "15-05-2022"
+    ],
+    "pendingLeaves": [
+      "14-06-2022"
+    ]
+  },
+  {
+    "id": 3,
+    "employeeName": "LMN",
+    "employeeLocation": "Pune",
+    "employeeLevel": "Senior Developer",
+    "projectDetails": {
+      "projectId": 1,
+      "projectName": "CCB"
+    },
+    "approvedLeaves": [
+      "21-06-2022"
+    ],
+    "plannedLeaves": [],
+    "pendingLeaves": []
+  },
+  {
+    "id": 4,
+    "employeeName": "SDF",
+    "employeeLocation": "Pune",
+    "employeeLevel": "Developer",
+    "projectDetails": {
+      "projectId": 1,
+      "projectName": "CCB"
+    },
+    "approvedLeaves": [],
+    "plannedLeaves": [],
+    "pendingLeaves": [
+      "31-05-2022"
+    ]
+  },
+  {
+    "id": 5,
+    "employeeName": "BNM",
+    "employeeLocation": "Pune",
+    "employeeLevel": "UI Developer",
+    "projectDetails": {
+      "projectId": 1,
+      "projectName": "CCB"
+    },
+    "approvedLeaves": [],
+    "plannedLeaves": [],
+    "pendingLeaves": []
+  },
+  {
+    "id": 6,
+    "employeeName": "QWE",
+    "employeeLocation": "Pune",
+    "employeeLevel": "UI Developer",
+    "projectDetails": {
+      "projectId": 1,
+      "projectName": "CCB"
+    },
+    "approvedLeaves": [],
+    "plannedLeaves": [],
+    "pendingLeaves": []
+  },
+  {
+    "id": 7,
+    "employeeName": "YUI",
+    "employeeLocation": "Pune",
+    "employeeLevel": "UI Developer",
+    "projectDetails": {
+      "projectId": 1,
+      "projectName": "CCB"
+    },
+    "approvedLeaves": [],
+    "plannedLeaves": [],
+    "pendingLeaves": []
+  },
+  {
+    "id": 8,
+    "employeeName": "POI",
+    "employeeLocation": "Pune",
+    "employeeLevel": "Project Manager",
+    "projectDetails": {
+      "projectId": 1,
+      "projectName": "CCB"
+    },
+    "approvedLeaves": [],
+    "plannedLeaves": [],
+    "pendingLeaves": []
+  }
+]

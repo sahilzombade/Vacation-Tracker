@@ -1,0 +1,29 @@
+.react-calendar__tile {
+  position: relative;
+}
+
+.highlight {
+  position: relative;
+}
+
+.highlight::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0.3;
+}
+
+.highlight-red::before {
+  background-color: red;
+}
+
+.highlight-green::before {
+  background-color: green;
+}
+
+.highlight-blue::before {
+  background-color: blue;
+}

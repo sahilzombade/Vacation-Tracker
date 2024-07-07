@@ -1,0 +1,19 @@
+ {/* Navbar */}
+            <AppBar position="static" sx={{ marginBottom: 2 }}>
+                <Toolbar>
+                    <Box sx={{ display: 'flex', justifyContent: 'space-around', width: '100%' }}>
+                        <Button variant="h6" onClick={function(){
+                            setCurr(EmpDetails)
+                        }}  >Employee Details </Button>
+                        <Button variant="h6" onClick={function(){
+                            setCurr(Approved)
+                        }}>Approved Leaves</Button>
+                        <Button variant="h6" onClick={function(){
+                            setCurr(Planned)
+                        }}>Planned leaves</Button>
+                        <Button variant="h6" onClick={function(){
+                            setCurr(Other)
+                        }}>Other leaves</Button>
+                    </Box>
+                </Toolbar>
+            </AppBar>

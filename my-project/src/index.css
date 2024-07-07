@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Hero{
+    margin-left: 10px;
+    margin-right :10px;
+}
