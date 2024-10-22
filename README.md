@@ -39,4 +39,4 @@ For any inquiries or feedback, please contact Sahil Zombade at [sahil.zombade@ou
 
 ---
 
-Feel free to customize further or add more specific details related to the view-only functionality of your application.
+
